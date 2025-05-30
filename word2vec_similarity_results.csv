@@ -1,0 +1,81 @@
+Model,Rank,Benzer Metin,Cosine Skoru
+word2vec_lemmatized_cbow_win2_dim100,1,chest discomfort,0.9855999946594238
+word2vec_lemmatized_cbow_win2_dim100,2,chest discomfort,0.9855999946594238
+word2vec_lemmatized_cbow_win2_dim100,3,neck mass,0.9833999872207642
+word2vec_lemmatized_cbow_win2_dim100,4,vaginal haemorrhage,0.9807999730110168
+word2vec_lemmatized_cbow_win2_dim100,5,pancreatitis acute,0.9785000085830688
+word2vec_lemmatized_cbow_win2_dim300,1,neck mass,0.9936000108718872
+word2vec_lemmatized_cbow_win2_dim300,2,chest discomfort,0.9926999807357788
+word2vec_lemmatized_cbow_win2_dim300,3,chest discomfort,0.9926999807357788
+word2vec_lemmatized_cbow_win2_dim300,4,vaginal haemorrhage,0.9923999905586243
+word2vec_lemmatized_cbow_win2_dim300,5,porphyria acute,0.9891999959945679
+word2vec_lemmatized_cbow_win4_dim100,1,chest discomfort,0.9882000088691711
+word2vec_lemmatized_cbow_win4_dim100,2,chest discomfort,0.9882000088691711
+word2vec_lemmatized_cbow_win4_dim100,3,pancreatitis acute,0.9819999933242798
+word2vec_lemmatized_cbow_win4_dim100,4,neck mass,0.9817000031471252
+word2vec_lemmatized_cbow_win4_dim100,5,porphyria acute,0.9812999963760376
+word2vec_lemmatized_cbow_win4_dim300,1,chest discomfort,0.9939000010490417
+word2vec_lemmatized_cbow_win4_dim300,2,chest discomfort,0.9939000010490417
+word2vec_lemmatized_cbow_win4_dim300,3,cholecystitis acute,0.9926999807357788
+word2vec_lemmatized_cbow_win4_dim300,4,pancreatitis acute,0.9926999807357788
+word2vec_lemmatized_cbow_win4_dim300,5,liver injury,0.9926999807357788
+word2vec_lemmatized_skipgram_win2_dim100,1,pancreatitis acute,0.9684000015258789
+word2vec_lemmatized_skipgram_win2_dim100,2,chest discomfort,0.9681000113487244
+word2vec_lemmatized_skipgram_win2_dim100,3,chest discomfort,0.9681000113487244
+word2vec_lemmatized_skipgram_win2_dim100,4,cholecystitis acute,0.9679999947547913
+word2vec_lemmatized_skipgram_win2_dim100,5,porphyria acute,0.9670000076293945
+word2vec_lemmatized_skipgram_win2_dim300,1,chest discomfort,0.9800999760627747
+word2vec_lemmatized_skipgram_win2_dim300,2,chest discomfort,0.9800999760627747
+word2vec_lemmatized_skipgram_win2_dim300,3,neck mass,0.9764000177383423
+word2vec_lemmatized_skipgram_win2_dim300,4,vaginal haemorrhage,0.9754999876022339
+word2vec_lemmatized_skipgram_win2_dim300,5,sport injury,0.9753999710083008
+word2vec_lemmatized_skipgram_win4_dim100,1,pancreatitis acute,0.9581999778747559
+word2vec_lemmatized_skipgram_win4_dim100,2,cholecystitis acute,0.9577999711036682
+word2vec_lemmatized_skipgram_win4_dim100,3,porphyria acute,0.9569000005722046
+word2vec_lemmatized_skipgram_win4_dim100,4,porphyria acute,0.9569000005722046
+word2vec_lemmatized_skipgram_win4_dim100,5,porphyria acute,0.9569000005722046
+word2vec_lemmatized_skipgram_win4_dim300,1,chest discomfort,0.9760000109672546
+word2vec_lemmatized_skipgram_win4_dim300,2,chest discomfort,0.9760000109672546
+word2vec_lemmatized_skipgram_win4_dim300,3,neck mass,0.9706000089645386
+word2vec_lemmatized_skipgram_win4_dim300,4,pancreatitis acute,0.9666000008583069
+word2vec_lemmatized_skipgram_win4_dim300,5,cholecystitis acute,0.9659000039100647
+word2vec_stemmed_cbow_win2_dim100,1,groin pain,0.9978
+word2vec_stemmed_cbow_win2_dim100,2,pain,0.9976
+word2vec_stemmed_cbow_win2_dim100,3,abdominal pain,0.9976
+word2vec_stemmed_cbow_win2_dim100,4,pain extremity,0.9976
+word2vec_stemmed_cbow_win2_dim100,5,back pain,0.9971
+word2vec_stemmed_cbow_win2_dim300,1,neck pain,0.9985
+word2vec_stemmed_cbow_win2_dim300,2,abdominal pain,0.9983
+word2vec_stemmed_cbow_win2_dim300,3,pain,0.9983
+word2vec_stemmed_cbow_win2_dim300,4,pain extremity,0.9983
+word2vec_stemmed_cbow_win2_dim300,5,eyelid pain,0.9981
+word2vec_stemmed_cbow_win4_dim100,1,groin pain,0.9971
+word2vec_stemmed_cbow_win4_dim100,2,neck pain,0.9971
+word2vec_stemmed_cbow_win4_dim100,3,pain,0.9969
+word2vec_stemmed_cbow_win4_dim100,4,abdominal pain,0.9969
+word2vec_stemmed_cbow_win4_dim100,5,pain extremity,0.9969
+word2vec_stemmed_cbow_win4_dim300,1,neck pain,0.9988
+word2vec_stemmed_cbow_win4_dim300,2,back pain,0.9985
+word2vec_stemmed_cbow_win4_dim300,3,abdominal pain,0.9982
+word2vec_stemmed_cbow_win4_dim300,4,pain,0.9982
+word2vec_stemmed_cbow_win4_dim300,5,pain extremity,0.9982
+word2vec_stemmed_skipgram_win2_dim100,1,groin pain,0.997
+word2vec_stemmed_skipgram_win2_dim100,2,neck pain,0.9963
+word2vec_stemmed_skipgram_win2_dim100,3,pain,0.9961
+word2vec_stemmed_skipgram_win2_dim100,4,abdominal pain,0.9961
+word2vec_stemmed_skipgram_win2_dim100,5,pain extremity,0.9961
+word2vec_stemmed_skipgram_win2_dim300,1,eyelid pain,0.9985
+word2vec_stemmed_skipgram_win2_dim300,2,neck pain,0.9982
+word2vec_stemmed_skipgram_win2_dim300,3,back pain,0.9973
+word2vec_stemmed_skipgram_win2_dim300,4,groin pain,0.9962
+word2vec_stemmed_skipgram_win2_dim300,5,pain,0.9938
+word2vec_stemmed_skipgram_win4_dim100,1,neck pain,0.9984
+word2vec_stemmed_skipgram_win4_dim100,2,tendon pain,0.9982
+word2vec_stemmed_skipgram_win4_dim100,3,back pain,0.9933
+word2vec_stemmed_skipgram_win4_dim100,4,groin pain,0.9913
+word2vec_stemmed_skipgram_win4_dim100,5,pain,0.9888
+word2vec_stemmed_skipgram_win4_dim300,1,neck pain,0.999
+word2vec_stemmed_skipgram_win4_dim300,2,tendon pain,0.9989
+word2vec_stemmed_skipgram_win4_dim300,3,back pain,0.9969
+word2vec_stemmed_skipgram_win4_dim300,4,groin pain,0.9917
+word2vec_stemmed_skipgram_win4_dim300,5,abdominal pain,0.9915

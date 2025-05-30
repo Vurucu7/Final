@@ -11,4 +11,8 @@ tfidf_similarity_analysis.py → tfidf_similarity_results.csv
 
 word2vec_similarity_analysis.py → word2vec_similarity_results.csv 
 
+<<<<<<< Updated upstream
 veri_temizleme.py → normalized_adverse_events.csv 
+=======
+veri_temizleme.py → normalized_adverse_events.csv 
+>>>>>>> Stashed changes

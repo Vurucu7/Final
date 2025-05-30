@@ -1,0 +1,11 @@
+Model,Rank,Benzer Metin,Cosine Skoru
+tfidf_lemmatized,1,cholecystitis acute,1.0
+tfidf_lemmatized,2,cholecystitis acute,1.0
+tfidf_lemmatized,3,cholecystitis acute,1.0
+tfidf_lemmatized,4,cholecystitis acute,1.0
+tfidf_lemmatized,5,cholecystitis,0.809
+tfidf_stemmed,1,cholecyst acut,1.0
+tfidf_stemmed,2,cholecyst acut,1.0
+tfidf_stemmed,3,cholecyst acut,1.0
+tfidf_stemmed,4,cholecyst acut,1.0
+tfidf_stemmed,5,cholecyst,0.809
