@@ -18,3 +18,4 @@ veri_temizleme.py → normalized_adverse_events.csv
 =======
 veri_temizleme.py → normalized_adverse_events.csv 
 >>>>>>> Stashed changes
+DBS üzerinden gönderilen zip dosyasının içerisinden veri setine ulaşabilirsinizz "adverse_drug_35"
